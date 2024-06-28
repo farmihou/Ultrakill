@@ -1,0 +1,2 @@
+# Ultrakill
+server riot
